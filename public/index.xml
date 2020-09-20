@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small Apps | App Landing Template</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Small Apps | App Landing Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 12:35:54 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/featured-post/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/featured-post/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-1/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-1/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-2/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-2/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-3/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-3/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-4/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-4/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-5/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-5/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-6/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-6/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-7/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-7/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-8/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-8/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Innovation distinguishes between a leader and a follower.</title>
+      <link>http://example.org/blog/post-9/</link>
+      <pubDate>Thu, 28 Feb 2019 12:35:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/post-9/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Selina Gomez</title>
+      <link>http://example.org/author/selina-gomez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/author/selina-gomez/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title>Thomas Johnson</title>
+      <link>http://example.org/author/thomas-johnson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/author/thomas-johnson/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+  </channel>
+</rss>
