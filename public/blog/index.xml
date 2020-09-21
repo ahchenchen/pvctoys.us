@@ -6,7 +6,25 @@
     <description>Recent content in Blog on Small Apps | App Landing Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 12:35:54 +0600</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 12:19:57 +0800</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Blog</title>
+      <link>http://example.org/blog/typeb/my-second-blog/</link>
+      <pubDate>Sat, 19 Sep 2020 12:19:57 +0800</pubDate>
+      
+      <guid>http://example.org/blog/typeb/my-second-blog/</guid>
+      <description>&lt;p&gt;文章的简略介绍&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>http://example.org/blog/typeb/my-first-blog/</link>
+      <pubDate>Sat, 19 Sep 2020 11:39:01 +0800</pubDate>
+      
+      <guid>http://example.org/blog/typeb/my-first-blog/</guid>
+      <description>&lt;p&gt;報復制裁美國、閻麗夢爆料真正要害，習近平惡夢成真；三峽庫區地震有多凶險？（文昭談古論今20200713第785期）&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Innovation distinguishes between a leader and a follower.</title>
       <link>http://example.org/blog/featured-post/</link>

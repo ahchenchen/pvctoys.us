@@ -1,18 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://example.org/en/sitemap.xml</loc>
-    
-      <lastmod>2019-02-28T12:35:54+06:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2020-09-19T12:19:57+08:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>http://example.org/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-02-28T12:35:54+06:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://example.org/blog/typeb/my-second-blog/</loc>
+    <lastmod>2020-09-19T12:19:57+08:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-19T12:19:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/typeb/my-first-blog/</loc>
+    <lastmod>2020-09-19T11:39:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/featured-post/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-1/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-2/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-3/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-4/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-5/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-6/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-7/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-8/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/post-9/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/author/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/career/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/author/martin-cao/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/team/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/author/selina-gomez/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/author/thomas-johnson/</loc>
+  </url>
+  
+</urlset>
